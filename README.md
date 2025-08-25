@@ -48,16 +48,27 @@
 
 ---
 
-## 🔁 DevOps CI/CD Workflow
+## 📫 Contact Me
 
-```mermaid
-graph LR
-A[Commit/Push Code] --> B[GitHub Actions CI]
-B --> C{Run Build & Tests}
-C -->|✅ Pass| D[Build Docker Image]
-C -->|❌ Fail| X[Fix Code & Retry]
-D --> E[Push Image to Docker Hub]
-E --> F[Deploy to Staging/Prod]
-F --> G[App Running 🚀]
-G --> H[Monitoring & Alerts]
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-hassan-845097305">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ahmad6515899@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Ahmadhassan0311">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Email:</b> ahmad6515899@gmail.com<br>
+  <b>Location:</b> Pakistan
+</p>
+
+---
+
+⭐️ From [Ahmad Hassan](https://github.com/Ahmadhassan0311)
