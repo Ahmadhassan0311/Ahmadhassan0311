@@ -60,3 +60,7 @@ D --> E[Push Image to Docker Hub]
 E --> F[Deploy to Staging/Prod]
 F --> G[App Running 🚀]
 G --> H[Monitoring & Alerts]
+## 📫 Contact Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+<p align="center"> <a href="https://www.linkedin.com/in/ahmad-hassan-845097305"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ahmad6515899@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/Ahmadhassan0311"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://twitter.com/YourTwitterHandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p><p align="center"> <b>Email:</b> ahmad6515899@gmail.com<br> <b>Location:</b> Pakistan </p>
